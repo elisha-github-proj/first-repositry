@@ -1,0 +1,14 @@
+Worked on Cognos Access request, Access revoke requests.
+Daily health checks and monitors the PBR Cognos environments (Val, Prod)
+Updating Data items in packages in frame work manager as per user request.
+Updating packages and published in Cognos prod.
+Deploying reports from Cognos Val to Cognos Prod environment.
+Creating jobs in prod as per user request.
+Checking the Cognos servers for deleting unwanted dump files.
+Worked on Cognos reports issues(incorrect data ,performance issues).
+Creating new reports by using report templates in SU application.
+Worked on Audit and inspection requests, Adhoc request, Schedule modification request, Custom report enhancement requests.
+
+Worked on Report Development,Sight test document creation, Sight test execution in HP ALM, Upload sight test evidence in GCMS and HCMS, TIP Document and Workplan Document creation, CR creation for report deployment
+	Worked on Quarterly Users cleanup activity and Cognos user access issues.
+Validating the reports with Argus.
